@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BaiTapThietKeForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|E:\\BaiTapThietKeForm\\baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|e:\\baitapthietkeform\\baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC152D9F-E50B-4E18-8ED1-54A8BBA32748}|BaiTapThietKeForm\\BaiTapThietKeForm.csproj|solutionrelative:baitapthietkeform\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBai4.cs",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai4.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai4.cs",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai4.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:58:09.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmBai4.cs [Design]",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai4.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai4.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:55:40.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai3.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai3.cs",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai3.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:25:02.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBai2.cs [Design]",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai2.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai2.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai2.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:12:41.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBai1.cs",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai1.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai1.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai1.cs",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAawCQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:54:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBai1.cs [Design]",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai1.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai1.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai1.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:23:35.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmchinh.cs [Design]",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmchinh.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmchinh.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmchinh.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmchinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:12:03.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmchinh.cs",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmchinh.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmchinh.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmchinh.cs",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmchinh.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:12:43.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBai2.cs",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai2.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai2.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai2.cs",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai2.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAawC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T06:29:02.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BaiTapThietKeForm\\frmBai3.cs",
+              "ToolTip": "E:\\BaiTapThietKeForm\\BaiTapThietKeForm\\frmBai3.cs [Design]",
+              "RelativeToolTip": "BaiTapThietKeForm\\frmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:08:53.304Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
